@@ -133,3 +133,8 @@
         git clone https://github.com/Astrages4/Lab4-Python
         cd Lab4-Python
         python main.py
+
+
+
+Отчет(5 лабу) делал на 2 лабу, а не на эту
+Также вот ссылка на 1 лабу(не проверена) - https://github.com/Astrages4/Lab1-Python
